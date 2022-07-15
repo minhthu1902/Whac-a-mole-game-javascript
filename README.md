@@ -15,4 +15,6 @@ This is a game involves us having to build a grid that randomly displays a mold 
 11. setInterval()
 12. clearInterval()
 13. alert()
+
+
 ** Reference from Ania Kubow
